@@ -1,0 +1,8 @@
+name: ExampleAddon
+authors: [ Asleepp ]
+description: Plugin Description
+api-version: 1.13
+version: ${version}
+depend: [Skript]
+main: com.example.exampleaddon.ExampleAddon
+
